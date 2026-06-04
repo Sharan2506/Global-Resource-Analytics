@@ -26,8 +26,7 @@ The quantitative metrics used in this model are mapped from empirical global fra
 To launch the web application server on your machine, follow these execution steps via your terminal (do not run the file directly through standard editor script execution keys):
 
  1. Project Assembly
-```bash
-git clone [https://github.com/YOUR_USERNAME/global-resource-analytics.git](https://github.com/YOUR_USERNAME/global-resource-analytics.git)
+git clone [https://github.com/Sharan2506/global-resource-analytics.git](https://github.com/Sharan2506/global-resource-analytics.git)
 cd global-resource-analytics
 
 2. Dependency Resolution
